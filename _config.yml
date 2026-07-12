@@ -28,6 +28,7 @@ defaults:
       layout: page
 
 exclude:
+  - scripts
   - Gemfile
   - Gemfile.lock
   - vendor
