@@ -1,0 +1,12 @@
+---
+title: Training plans
+layout: page
+---
+<ul class="post-list">
+  {% assign plans = site.training_plans | sort: "title" %}
+  {% for plan in plans %}
+  <li>
+    <a href="{{ plan.url | relative_url }}">{{ plan.title }}</a>
+  </li>
+  {% endfor %}
+</ul>
