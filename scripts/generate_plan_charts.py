@@ -19,7 +19,7 @@ from matplotlib.patches import FancyBboxPatch, Rectangle
 OUT = Path(__file__).resolve().parent.parent / "assets" / "img"
 
 START = date(2026, 9, 14)  # Monday of week 1
-RACE = date(2027, 4, 25)  # Sunday of week 32
+RACE = date(2027, 4, 24)  # Saturday of week 32 (the 2027 two-day "Double")
 
 # Weekly running volume (km), weeks 1-32. Cutback weeks every ~4th week;
 # week 15 cutback lands on Christmas; week 24 mini-taper into the tune-up
@@ -32,8 +32,8 @@ WEEKLY_KM = [
     38, 28, 16,                            # P5 taper (wk 32 excl. race)
 ]
 
-# Sunday long run (km), weeks 1-32. Week 24 long run is the tune-up half
-# race; week 32's "long run" is the marathon itself.
+# Weekly long run (km), weeks 1-32. Sundays in training; week 24's is the
+# tune-up half race and week 32's is the marathon itself (Saturday).
 LONG_RUN = [
     6, 7, 8, 6, 9, 10, 11, 8,
     12, 13, 15, 10, 16, 17, 12, 18,
@@ -177,7 +177,7 @@ def chart_long_run():
     ax.set_ylim(0, 47)
     ax.set_yticks(range(0, 41, 10))
     month_ticks(ax)
-    ax.set_ylabel("Sunday long run, km")
+    ax.set_ylabel("Long run, km")
     fig.tight_layout()
     fig.savefig(OUT / "dobbs-plan-long-run.svg")
     plt.close(fig)
