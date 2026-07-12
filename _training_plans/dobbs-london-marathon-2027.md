@@ -1,12 +1,13 @@
 ---
-title: Dobbs training plan — London Marathon 2027
+title: "Dobbs training plan: London Marathon 2027"
 ---
 
-**Race day:** Sunday 25 April 2027 · **Training starts:** Monday 14 September 2026 · **32 weeks**
+**Race day:** Saturday 24 April 2027 · **Training starts:** Monday 14 September 2026 · **32 weeks**
 
-*The 2027 London Marathon is a one-off two-day "Double" (Sat 24 / Sun 25 April).
-This plan assumes Sunday; if the ballot allocates Saturday, everything simply
-shifts one day earlier and the final week adjusts.*
+*The 2027 London Marathon is a one-off two-day "Double" and Dobbs is running
+the Saturday. Long runs stay on Sundays through training; race week simply
+compresses by a day, and the last couple of long runs move to Saturdays to
+rehearse the race-day routine.*
 
 ## The goal
 
@@ -14,7 +15,7 @@ A comfortable **sub-4:30** first marathon. That means averaging **6:24/km**
 for 42.2 km.
 
 Your 2:07 half marathon (6:01/km) already predicts roughly a **4:25**
-marathon on the standard Riegel conversion — *if* you do the endurance
+marathon on the standard Riegel conversion, *if* you do the endurance
 training. So sub-4:30 is honest and achievable: it doesn't require you to get
 faster, it requires you to get durable. That's what the next 32 weeks are for.
 
@@ -34,7 +35,7 @@ volume build without breaking you.
 ![Weekly running volume by phase, September 2026 to April 2027]({{ '/assets/img/dobbs-plan-weekly-volume.svg' | relative_url }})
 
 Five phases, with a cutback week roughly every fourth week (the dips in the
-chart — they're planned recovery, not slacking). About **1,020 km of training**
+chart are planned recovery, not slacking). About **1,020 km of training**
 before the start line.
 
 | Phase | Weeks | Dates | km/week | Run hours/week | Focus |
@@ -43,10 +44,10 @@ before the start line.
 | 2 · Aerobic build | 9–16 | 9 Nov – 3 Jan | 24–35 | 3–4¼ | Long run grows; strides + gentle tempo |
 | 3 · Marathon build | 17–24 | 4 Jan – 28 Feb | 31–47 | 3¾–5½ | Long runs 20–28 km; gel practice starts; tune-up half |
 | 4 · Peak | 25–29 | 1 Mar – 4 Apr | 42–50 | 5–6 | Two 30+ km runs; full race rehearsals |
-| 5 · Taper | 30–32 | 5 Apr – 25 Apr | 38→16 | tapering | Absorb the training. Arrive fresh |
+| 5 · Taper | 30–32 | 5 Apr – 24 Apr | 38→16 | tapering | Absorb the training. Arrive fresh |
 
 Add ~45 minutes of strength on top of the running hours. Peak total commitment
-is about **6½–7 hours a week**, for five weeks in March — everything before
+is about **6½–7 hours a week**, for five weeks in March. Everything before
 that is gentler.
 
 ## The week
@@ -65,7 +66,7 @@ one".
 | Sat | Easy run (short) |
 | Sun | Long run |
 
-Shuffle freely around social plans — the only rules:
+Shuffle freely around social plans. The only rules:
 
 1. Keep ~2 days between the quality run and the long run.
 2. Strength never lands the day before the long run.
@@ -74,41 +75,41 @@ Shuffle freely around social plans — the only rules:
 
 ## Milestones
 
-![Sunday long run progression with milestones]({{ '/assets/img/dobbs-plan-long-run.svg' | relative_url }})
+![Weekly long run progression with milestones]({{ '/assets/img/dobbs-plan-long-run.svg' | relative_url }})
 
 | When | Milestone |
 |------|-----------|
 | Sun 25 Oct 2026 | First 10 km long run |
 | Sun 29 Nov 2026 | First 15 km |
 | Sun 24 Jan 2027 | Half-marathon distance in training (easy pace) |
-| Sun 28 Feb 2027 | **Tune-up half marathon race** — book one near this date |
+| Sun 28 Feb 2027 | **Tune-up half marathon race** (book one near this date) |
 | Sun 21 Mar 2027 | First 30 km |
-| Sun 4 Apr 2027 | Longest run: 32 km, three weeks out |
-| **Sun 25 Apr 2027** | **London Marathon** |
+| Sun 4 Apr 2027 | Longest run: 32 km, just under three weeks out |
+| **Sat 24 Apr 2027** | **London Marathon** |
 
 The tune-up half is the single best fitness check in the plan: raced at the
 end of a mini-taper week, it should come in comfortably under 2:07 and
 confirms (or recalibrates) the sub-4:30 target with 8 weeks still to adjust.
 
-You never run 42.2 km in training — nobody does. The taper plus race-day
+You never run 42.2 km in training; nobody does. The taper plus race-day
 adrenaline and fuelling bridge the gap from 32 km.
 
 ## Fuelling and gel training
 
 Marathon fuelling is a trained skill. Guts that aren't used to eating on the
-run rebel at 30 km — so we practise, starting in **phase 3, on every long run
+run rebel at 30 km, so we practise, starting in **phase 3, on every long run
 of 90 minutes or more**.
 
 - **Target on race day:** ~40–50 g of carbohydrate per hour. With a typical
   gel at ~22–25 g carbs (a Maurten GEL 100 is 25 g), that's **one gel every
-  30–35 minutes** — around 7–8 gels over the race. It sounds like a lot; that's
+  30–35 minutes**, around 7–8 gels over the race. It sounds like a lot; that's
   why we train it.
 - **Progression:** first gel-run in January with just one gel mid-run → build
   to full race cadence on the 30+ km runs in March, which are dress rehearsals:
   race kit, race breakfast, race gels, race pacing.
 - **Train with what you'll race with.** Pick a brand and flavour that agrees
   with you and stick to it. Check what the 2027 course supplies nearer the
-  time — if it's not your gel, carry your own.
+  time; if it's not your gel, carry your own.
 - **Before the race:** carb-heavy eating for the final 48 hours, familiar
   breakfast 2½–3 hours before the start.
 - **Drinking:** little and often, to thirst. Practise grabbing and drinking
@@ -131,8 +132,8 @@ It will, several times, over 32 weeks. The rules:
 - **Miss up to a week** (illness, holiday, life): rejoin the plan a step back
   from where you left, not where the calendar says.
 - **Niggles:** soreness that eases as you warm up is fine. Pain that changes
-  your stride, or gets worse during a run, means stop — three days off now
-  beats three months off later. The plan has enough slack to absorb it.
+  your stride, or gets worse during a run, means stop. Three days off now
+  beats three months off later, and the plan has enough slack to absorb it.
 - **Sleep is training.** The adaptation happens in recovery; the two rest days
   and normal bedtimes are doing as much work as the runs.
 
@@ -142,7 +143,7 @@ This page is the high-level sketch. Detailed, interactive versions of each
 piece will appear in [adhoc]({{ '/adhoc/' | relative_url }}) and be linked
 here:
 
-- *Week-by-week schedule* — every session, every week, tickable
-- *Pace calculator* — easy/tempo/race paces from any recent race result
-- *Fuelling planner* — gels, timing and carbs/hour for race day
-- *Tune-up race analysis* — recalibrating the target after the February half
+- *Week-by-week schedule*: every session, every week, tickable
+- *Pace calculator*: easy/tempo/race paces from any recent race result
+- *Fuelling planner*: gels, timing and carbs/hour for race day
+- *Tune-up race analysis*: recalibrating the target after the February half
