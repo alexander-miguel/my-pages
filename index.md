@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# tismo
+# flyingkimura
 
 A quiet corner of the web for notes, plans, and experiments.
 

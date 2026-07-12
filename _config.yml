@@ -1,7 +1,7 @@
-title: tismo
+title: flyingkimura
 description: notes, plans, and experiments
-url: "https://alexander-miguel.github.io"
-baseurl: "/my-pages"
+url: "https://flyingkimura.co.uk"
+baseurl: ""
 
 markdown: kramdown
 permalink: /blog/:year/:month/:slug/

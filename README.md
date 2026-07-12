@@ -1,7 +1,7 @@
-# tismo
+# flyingkimura
 
-Source for [tismo](https://alexander-miguel.github.io/my-pages/), a minimal
-Jekyll site published to GitHub Pages.
+Source for [flyingkimura](https://flyingkimura.co.uk/), a minimal Jekyll
+site published to GitHub Pages.
 
 ## Publishing
 
@@ -38,4 +38,4 @@ bundle install
 bundle exec jekyll serve
 ```
 
-Site serves at `http://localhost:4000/my-pages/`.
+Site serves at `http://localhost:4000/`.
