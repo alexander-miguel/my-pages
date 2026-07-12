@@ -4,8 +4,7 @@ layout: default
 
 # tismo
 
-A quiet corner of the web for notes, plans, and experiments. No name attached
-— just the work.
+A quiet corner of the web for notes, plans, and experiments.
 
 ## About this site
 
