@@ -48,6 +48,3 @@ So far it has:
   contradictions before they pile up
 - held a reading list and a small stack of recipes
 - written this post
-
-None of it is exotic. The point was never a clever demo — it was an agent
-that still knows what it knew last week.
